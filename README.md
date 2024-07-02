@@ -6,7 +6,7 @@ A Binder-compatible repo with an `environment.yml` file.
 
 Access this Binder by clicking the blue badge above or at the following URL:
 
-[https://mybinder.org/v2/gh/HuanLuo06/Conda_Binder_HL.git/py37_r353](https://mybinder.org/v2/gh/HuanLuo06/BSGP_7030_Python_Scripts.git/HEAD)
+[https://mybinder.org/v2/gh/HuanLuo06/BSGP_7030_Python_Scripts.git/HEAD](https://mybinder.org/v2/gh/HuanLuo06/BSGP_7030_Python_Scripts.git/HEAD)
 
 ## Notes
 The `environment.yml` file should list all Python libraries on which your notebooks
