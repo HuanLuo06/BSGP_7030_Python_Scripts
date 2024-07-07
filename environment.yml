@@ -1,4 +1,4 @@
-name: rlmscript
+name: pylmscript
 channels:
   - conda-forge
   - bioconda
